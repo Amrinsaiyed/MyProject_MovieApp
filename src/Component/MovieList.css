@@ -1,0 +1,16 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.poster img{
+    padding-left: 15px;
+    margin-right: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+.serch_box input{
+border-width: 3px;
+border-color: rgb(249, 215, 250);
+padding: 10px;
+}
